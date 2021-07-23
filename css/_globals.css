@@ -1,0 +1,4 @@
+html {
+    font-size: 100%;   /* Allows user to control zoom level */
+    box-sizing: border-box; /* Makes the size of elements include padding in the final width */
+}
